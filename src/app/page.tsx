@@ -192,14 +192,6 @@ export default function LandingPage() {
           testimonials={[
             {
               id: "1",
-              name: "Robert Martinez",
-              role: "CEO, Advanced Manufacturing Co.",
-              testimonial: "Altitude Capital brought more than capital. Their operational insights and network acceleration helped us integrate three acquisitions seamlessly and grew revenue by 180% in four years.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766140101670-ttp7xdlv.jpg",
-              imageAlt: "Robert Martinez"
-            },
-            {
-              id: "2",
               name: "Emily Thompson",
               role: "Managing Director, Institutional Investor Group",
               testimonial: "Altitude's disciplined approach to value creation and transparent communication have made them a trusted partner in our portfolio. Their exits consistently exceed market benchmarks.",
@@ -207,15 +199,7 @@ export default function LandingPage() {
               imageAlt: "Emily Thompson"
             },
             {
-              id: "3",
-              name: "James Park",
-              role: "Founder, Digital Solutions Platform",
-              testimonial: "Working with Altitude felt like adding an experienced operating partner to our board. They understood our vision and provided the strategic support we needed to achieve a premium exit.",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766148213295-zi2vbfb7.jpg",
-              imageAlt: "James Park"
-            },
-            {
-              id: "4",
+              id: "2",
               name: "Victoria Soto",
               role: "Family Office Principal",
               testimonial: "Altitude manages a meaningful portion of our family office allocation. Their commitment to governance, risk management, and investor communication sets them apart in the middle market.",
@@ -223,12 +207,28 @@ export default function LandingPage() {
               imageAlt: "Victoria Soto"
             },
             {
-              id: "5",
+              id: "3",
               name: "Christopher Lee",
               role: "Chief Investment Officer, Pension Fund",
               testimonial: "Over two decades, Altitude has delivered consistent returns with reasonable risk profiles. Their operational focus differentiates them from financial engineering-focused competitors.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766140101670-ttp7xdlv.jpg",
               imageAlt: "Christopher Lee"
+            },
+            {
+              id: "4",
+              name: "Robert Martinez",
+              role: "CEO, Advanced Manufacturing Co.",
+              testimonial: "Altitude Capital brought more than capital. Their operational insights and network acceleration helped us integrate three acquisitions seamlessly and grew revenue by 180% in four years.",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766140101670-ttp7xdlv.jpg",
+              imageAlt: "Robert Martinez"
+            },
+            {
+              id: "5",
+              name: "James Park",
+              role: "Founder, Digital Solutions Platform",
+              testimonial: "Working with Altitude felt like adding an experienced operating partner to our board. They understood our vision and provided the strategic support we needed to achieve a premium exit.",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766148213295-zi2vbfb7.jpg",
+              imageAlt: "James Park"
             },
             {
               id: "6",
