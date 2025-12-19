@@ -40,7 +40,7 @@ export default function LandingPage() {
 
       <div id="hero" data-section="hero">
         <HeroSplitLarge
-          title="Institutional Capital for Tomorrow's Leaders"
+          title="Transformative Capital for Tomorrow's Market Leaders"
           description="We identify and partner with transformative companies at critical growth inflection points. Altitude Capital brings deep operational expertise, strategic networks, and patient capital to fuel sustainable value creation."
           tag="San Francisco Private Equity"
           buttons={[
