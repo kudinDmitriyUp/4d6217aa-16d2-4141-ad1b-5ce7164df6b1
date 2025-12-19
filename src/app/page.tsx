@@ -254,7 +254,7 @@ export default function LandingPage() {
             {
               id: "1",
               title: "What is the typical check size and fund structure?",
-              content: "Our current fund (Fund III) focuses on investments of $50M-$300M in enterprise value. We accept institutional investor commitments starting at $5M. Fund structure includes a 10-year investment period with 3-year committed capital deployment."
+              content: "We focus on investments of $50M-$300M in enterprise value, with a $5M minimum commitment for institutional investors. Our current fund (Fund III) includes a 10-year investment period with 3-year committed capital deployment."
             },
             {
               id: "2",
