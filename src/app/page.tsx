@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
 import HeroSplitLarge from '@/components/sections/hero/HeroSplitLarge';
@@ -239,7 +239,6 @@ export default function LandingPage() {
               imageAlt: "Rachel Goldman"
             }
           ]}
-          gridVariant="three-columns-all-equal-width"
           animationType="slide-up"
           textboxLayout="default"
           containerStyle="default"
